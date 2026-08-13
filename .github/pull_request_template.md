@@ -9,6 +9,3 @@ Notion: <!-- e.g. SW-9 — replace this comment with the ticket -->
 
 ## Testing
 <!-- Bench test? CAN trace? Unit test? What did you do to verify? -->
-
-## Checklist
-- [ ] Code compiles without warnings
