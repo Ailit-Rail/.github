@@ -1,11 +1,16 @@
 ## Ticket
-Notion: <!-- e.g. SW-9 — replace this comment with the ticket -->
+<!-- Link as [SW-XX - Title](notion-url). -->
+Notion: 
 
 ## Summary
-<!-- 1-2 sentences. The "what" in plain English. -->
+<!-- 1-2 lines of backstory - WHY the old state was wrong or insufficient -
+     then what the PR does. Human tone, short sentences. -->
 
 ## Description
-<!-- The "why" and "how". Context, design decisions, trade-offs. -->
+<!-- The what/how, a few bullets. Keep it short - the reviewer reads the
+     code for depth. Scale length with the diff: a 2-line fix gets a short
+     text, a feature gets a fuller one. -->
 
 ## Testing
-<!-- Bench test? CAN trace? Unit test? What did you do to verify? -->
+<!-- What was actually run (build, unit tests, bench), honestly - including
+     what was NOT tested. -->
