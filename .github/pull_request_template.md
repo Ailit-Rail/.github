@@ -1,6 +1,5 @@
 ## Ticket
-<!-- Link as [SW-XX - Title](notion-url). -->
-Notion: 
+Notion: <!-- replace this comment with the ticket link -->
 
 ## Summary
 <!-- 1-2 lines of backstory - WHY the old state was wrong or insufficient -
