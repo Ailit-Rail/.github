@@ -13,3 +13,7 @@ Notion: <!-- replace this comment with the ticket link -->
 ## Testing
 <!-- What was actually run (build, unit tests, bench), honestly - including
      what was NOT tested. -->
+
+## Docs
+<!-- The CLAUDE.md / AGENTS.md sections and Notion pages this PR updated,
+     with links. Write "None affected" when the change leaves them correct. -->
