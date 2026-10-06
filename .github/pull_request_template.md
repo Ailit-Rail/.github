@@ -1,3 +1,8 @@
+<!-- Write for the reviewer: what changed and why, nothing more. State
+     only what is true and known; invent nothing. No narration of the
+     work, no repetition between sections. Write N/A where a section does
+     not apply. -->
+
 ## Ticket
 Notion: <!-- replace this comment with the ticket link -->
 
