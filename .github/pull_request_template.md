@@ -17,7 +17,8 @@ Notion: <!-- replace this comment with the ticket link -->
 
 ## Testing
 <!-- What was actually run (build, unit tests, bench), honestly - including
-     what was NOT tested. -->
+     what was NOT tested. Name no commit hash: a later push makes it out of
+     date, and the PR's checks show which commit they ran on. -->
 
 ## Docs
 <!-- The CLAUDE.md / AGENTS.md sections and Notion pages this PR updated,
